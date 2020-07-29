@@ -1,20 +1,20 @@
-Web Design Using React Js
-Day Wise -01
-Recording video1
+# Web Design Using React Js
+# Day Wise -01
+* Recording video1
 
-Recording video2
+* Recording video2
 
-Day 01
-What is Web Design ?
+# Day 01
+* What is Web Design ?
          Creating  a website(Static or Dynamic) based on requirement is known as Web Design.
-What is Web Development ?
+* What is Web Development ?
            Maintaining the website is known as Web Development(able to perform all DataBase operations).
-Software Requirements for our project :
+## Software Requirements for our project :
                                         1. Text Editor (Sublime Text, Visual studio)
                                         2. Git and Github
                                         3. Chrome
                                         4. Nodejs software
-Importance of Git and Github in our project:
+## Importance of Git and Github in our project:
                 Github is an distributed version control system which maintains the versions of our project.
 Advantages of Github :
                           1. We are able to deploy our project, whenever we want able to get back to previous code by using snapshots
@@ -22,12 +22,12 @@ Advantages of Github :
                           3. open source and also works as social network
 To create a Github Account Official url for Github
 
-What is Git ?
+* What is Git ?
               Git is a tool which manages the snapshots of or project and able to handle small or very large projects effictvely
 Github uses tool Git to manage the snapshots of the project
 
 Installation of Git tool official website for Git tool
-Create a Empty Repository in Github :
+## Create a Empty Repository in Github :
                                         1. To create a repository at top-right there is a "+"  dropdown button select that button
                                         2. Select "New Repository" option
                                         3. Name your repository (Repository name should be unique)
@@ -57,7 +57,7 @@ How to clone a Repository :
                                 2. Copy the url
                                 3. open the gitbash
                                 4. check the path again if you are not in DESKTOP change your path to DESKTOP.
-Commands to clone a repository using gitBash
+# Commands to clone a repository using gitBash
 git clone paste the url : This commands clone a repository from github and creates a folder in our local system.
 
 ls : This command is used to display the list of files.
@@ -91,10 +91,10 @@ git pull origin master : This command is used to pull the repository in Github.
 
 git push origin master : This command is used to push the chnages from localfolder to Github Repository.
 
-Day 02:
-Recording video1
+# Day 02:
+* Recording video1
 
-Recording video2
+* Recording video2
 
 Introduction to Html5:
                      Html5 stands for Hyper Text MarkUp language used to create web pages and the version is 5.
